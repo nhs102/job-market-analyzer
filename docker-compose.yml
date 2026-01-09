@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: job-market-analyzer
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data  # Persist data outside container
+      - ./src:/app/src    # Allow hot-reloading code in dev
+    environment:
+      - PYTHONUNBUFFERED=1
