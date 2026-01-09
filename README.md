@@ -120,4 +120,4 @@ job-market-analyzer/
 
 ## 👥 Author
 *   **Shawn Nam**
-*   **Contact**: 'https://www.linkedin.com/in/shawn-nam-b79614204/' | [tjr001136@gmail.com]
+*   **Contact**: [ttps://www.linkedin.com/in/shawn-nam-b79614204/]| [tjr001136@gmail.com]
