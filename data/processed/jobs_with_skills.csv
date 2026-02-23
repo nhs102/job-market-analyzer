@@ -1,0 +1,595 @@
+title,company,location,description,link,source,skills,skill_count
+Data Scientist Intern,Tinder,"Los Angeles, CA","Our Mission
+
+
+
+
+As humans, there are few things more exciting than meeting someone new. At Tinder, we’re inspired by the challenge of keeping the magic of human connection alive. With tens of millions of users, hundreds of millions of downloads, 2+ billion swipes per day, 20+ million matches per day, and a presence in 190+ countries, our reach is expansive—and rapidly growing.
+
+
+
+
+We work together to solve complex problems. Behind the simplicity of every match, we think deeply about human relationships, behavioral science, network economics, AI and ML, online and real-world safety, cultural nuances, loneliness, love, sex, and more.
+
+
+
+
+Program Duration
+
+The internship program will run from June 1 through August 28, 2026.
+
+
+
+
+Where you’ll work
+
+This is a hybrid role that requires in-office collaboration three days per week in Los Angeles.
+
+
+
+
+About the Role
+
+As a Data Scientist Intern at Tinder, you’ll help us uncover insights from one of the world’s largest datasets to enhance user experience, strengthen safety, and drive innovation across our platform. You’ll work alongside talented engineers, data scientists, and product teams to solve real-world problems using data-driven approaches that shape the future of how people connect.
+
+
+
+
+What you'll do:
+Explore and analyze large-scale datasets to identify patterns, trends, and opportunities
+Develop and evaluate machine learning models and/or LLMs that improve user experience and engagement
+Design and execute A/B experiments to measure the impact of product features and algorithmic changes
+Collaborate with cross-functional partners in Data Science, Product, and Engineering to translate insights into actionable strategies
+Present key findings and project outcomes to Product and Leadership teams during end-of-internship demos
+Translate data insights into clear narratives and recommendations that inform product roadmaps and user experience improvements
+Participate in improving the team’s tools and techniques for experiment reads, focusing on standardization, automation, and clear documentation
+
+
+
+
+What we're looking for:
+Passion for using data and experimentation to solve complex problems
+Intermediate to advanced SQL skills for data querying and analysis
+Familiarity with / building to proficiency in Python
+Strong foundation in statistics, probability, and machine learning fundamentals
+Understanding of data structures and algorithms
+Currently pursuing a BS/BA, MS, or PhD in Computer Science, Data Science, Economics, Statistics, Applied Math, or a related field
+
+
+
+
+
+
+
+Commitment to Inclusion
+
+
+
+
+At Tinder, we don’t just accept difference, we celebrate it. We strive to build a workplace that reflects the rich diversity of our members around the world, and we value unique perspectives and backgrounds. Even if you don’t meet all the listed qualifications, we invite you to apply and show us how your skills could transfer. Tinder is proud to be an equal opportunity workplace where we welcome people of all sexes, gender identities, races, ethnicities, disabilities, and other lived experiences. Learn more here: https://www.lifeattinder.com/dei
+
+
+
+
+If you require reasonable accommodation to complete a job application, pre-employment testing, or a job interview or to otherwise participate in the hiring process, please speak to your Talent Acquisition Partner directly.
+
+
+
+
+#Tinder
+
+
+
+The compensation range listed above is representative of the hourly rate offered.
+Factors such as scope and responsibilities of the position, candidate's work experience, education/training, job-related skills, internal peer equity, as well as market and business considerations may influence base pay offered. This salary range is reflective of a position based in Los Angeles, California. This hourly rate will be subject to a geographic adjustment (according to a specific city, state, and country), if an authorization is granted to work outside of the location listed in this posting.",https://www.linkedin.com/jobs/view/data-scientist-intern-at-tinder-4323761210?position=1&pageNum=0&refId=sAyDPJJeUtrEgNDzMHa79Q%3D%3D&trackingId=LNAVm4JdVwjWNO3KnL7cxw%3D%3D,LinkedIn,"['SQL', 'Python']",2
+"Data Scientist I, Integrity",Tinder,"Los Angeles, CA","Our Mission
+
+
+
+
+Launched in 2012, Tinder® revolutionized how people meet, growing from 1 match to one billion matches in just two years. This rapid growth demonstrates its ability to fulfill a fundamental human need: real connection. Today, the app has been downloaded over 630 million times, leading to over 97 billion matches, serving approximately 50 million users per month in 190 countries and 45+ languages - a scale unmatched by any other app in the category. In 2024, Tinder won four Effie Awards for its first-ever global brand campaign, “It Starts with a Swipe”™""
+
+
+
+
+
+
+
+Our Values
+
+
+
+
+One Team, One Dream
+
+We work hand-in-hand, building Tinder for our members. We succeed together when we work collaboratively across functions, teams, and time zones, and think outside the box to achieve our company vision and mission.
+
+
+
+
+Own It
+
+We take accountability and strive to make a positive impact in all aspects of our business, through ownership, innovation, and a commitment to excellence.
+
+
+
+
+Never Stop Learning
+
+We cultivate a culture where it’s safe to take risks. We seek out input, share honest feedback, celebrate our wins, and learn from our mistakes in order to continue improving.
+
+
+
+
+Spark Solutions
+
+We’re problem solvers, focusing on how to best move forward when faced with obstacles. We don’t dwell on the past or on the issues at hand, but instead look at how to stay agile and overcome hurdles to achieve our goals.
+
+
+
+
+Embrace Our Differences
+
+We are intentional about building a workplace that reflects the rich diversity of our members. By leveraging different perspectives and other ways of thinking, we build better experiences for our members and our team.
+
+
+
+
+The Role:
+
+
+
+
+Tinder brings people together. With tens of millions of users and a presence in every country on earth, our reach is expansive and rapidly growing.
+
+
+
+
+As a DS I on the Integrity team, you will leverage data and automation to help Tinder solve impactful product and engineering problems such as understanding the impact of our user facing features, and creating metrics to better quantify the user experience.
+
+
+
+
+Our team provides Tinder with quantification and understanding of intent, behavior, value, and the potentially complicated ways in which they all interrelate. You will develop frameworks and models for how data should be leveraged in decision making and be a key stakeholder in delivering quantitative tools. 
+
+
+
+
+An effective DS I at Tinder must have a passion and aptitude for turning sophisticated problems into concrete hypotheses that can be answered through meticulous data analysis and A/B testing. You must be able to disseminate findings and recommendations to a variety of partners across the organization via presentations, reports, and dashboards. In this role, your insights will influence the performance of our business, the experience of our members, and the direction of analytics at Tinder.
+
+
+
+
+Where you’ll work:
+
+This is a hybrid role and requires in-office collaboration two times per week, in LA, SF, or Palo Alto.
+
+
+
+
+
+
+
+
+
+
+In this role, you will:
+Partner closely with Product, Engineering, and Policy to support Integrity initiatives through data analysis, experimentation, and measurement. 
+Analyze user behavior related to Integrity and safety initiatives to inform product decisions. Proactively monitor product performance and provide actionable insights and recommendations to improve user experience
+Design and analyze experiments or quasi-experiments to test hypotheses and evaluate the impact of Integrity-related features
+Develop and maintain dashboards and monitoring tools to track key safety and risk metrics
+Produce clear, data-driven insights and recommendations, and communicate findings to cross-functional stakeholders
+Support the evolution of metrics and measurement frameworks for Integrity products under guidance from senior team members
+Contribute to improving data quality, pipelines, and analytical infrastructure related to trust and safety use cases
+
+
+
+
+You’ll need:
+Bachelor’s degree or equivalent in a quantitative field, Master’s degree or PhD with a social science background preferred. 
+1-2 years of professional working experience in Data Science and/or analytics preferred. 
+Experience with SQL and data visualization tools (e.g. Tableau or Mode) is a plus, not required
+Familiarity with scripting languages (e.g., Python or R) and applied statistical methods; experience with A/B testing is a plus
+Exposure to causal inference concepts or methods is a plus
+Ability to develop a nuanced business understanding, testable hypotheses, and significant findings from data. 
+Eagerness to identify and explore new product opportunities, potential improvements to our data infrastructure, and unanswered questions about member behavior. 
+Comfort using descriptive and inferential statistics. 
+Curiosity of how things work, from both a business and technical perspective. 
+A collaborative growth mindset with a dedication to community-based projects and partnerships. 
+
+
+
+
+As a full-time employee, you’ll enjoy:
+Flexible Vacation, 10 annual Sick Days
+Time off to volunteer and charitable donations matching
+Comprehensive health, vision, and dental coverage
+100% 401(k) employer match up to 10%, Employee Stock Purchase Plan (ESPP)
+100% paid parental leave (including for non-birthing parents), family forming benefits, and Milk Stork, which provides access to breast milk shipping for business travel, surrogacy, and employee relocation
+Investment in your development: mentorship through our MentorMatch program, access to 6,000+ online courses through Udemy, and an annual stipend for your professional development
+Investment in your wellness: access to mental health support via Modern Health; paid concierge medical membership, pet insurance, ClassPass, Active&Fit Direct fitness membership subsidy, and commuter subsidy
+Free subscription to Tinder
+
+
+
+
+
+
+
+Commitment to Inclusion
+
+
+
+
+At Tinder, we don’t just accept difference, we celebrate it. We strive to build a workplace that reflects the rich diversity of our members around the world, and we value unique perspectives and backgrounds. Even if you don’t meet all the listed qualifications, we invite you to apply and show us how your skills could transfer. Tinder is proud to be an equal opportunity workplace where we welcome people of all sexes, gender identities, races, ethnicities, disabilities, and other lived experiences. Learn more here: https://www.lifeattinder.com/dei
+
+
+
+
+If you require reasonable accommodation to complete a job application, pre-employment testing, or a job interview or to otherwise participate in the hiring process, please speak to your Talent Acquisition Partner directly.
+
+
+
+
+#Tinder
+
+
+
+The salary range for this position is $120,000 - $135,000. Factors such as scope and responsibilities of the position, candidate's work experience, education/training, job-related skills, internal peer equity, as well as market and business considerations may influence base pay offered. This salary range is reflective of a position based in Los Angeles San Francisco, CA, or Palo Alto, CA. This salary will be subject to a geographic adjustment (according to a specific city and state), if an authorization is granted to work outside of the location listed in this posting. 
+",https://www.linkedin.com/jobs/view/data-scientist-i-integrity-at-tinder-4367025321?position=2&pageNum=0&refId=sAyDPJJeUtrEgNDzMHa79Q%3D%3D&trackingId=9nWuETmqv3aD18PE7nSq8w%3D%3D,LinkedIn,"['Python', 'Spark', 'SQL', 'R', 'Tableau']",5
+"Data Scientist (L5) , Performance Marketing",Netflix,United States,"At Netflix, our mission is to entertain the world. Together, we are writing the next episode - pushing the boundaries of storytelling, global fandom and making the unimaginable a reality. We are a dream team obsessed with the uncomfortable excitement of discovering what happens when you merge creativity, intuition and cutting-edge technology. Come be a part of what’s next.
+
+It's an exciting time to join Netflix as we continue to transform entertainment globally. We are bringing new stories to millions of people worldwide by promoting our original, exclusive content. As we move beyond 300 million members and hundreds of partnerships worldwide, our approach to marketing is to build innovative, culturally relevant, creatively excellent campaigns that pierce the zeitgeist and drive conversation.
+
+Data is a crucial component in shaping our comprehensive conversation strategy. In Content & Conversation Applied Science and Analytics (CASAS) DSE, we focus on delivering data products and insights that support our business partners in their complex and nuanced decision-making processes. We are a highly collaborative team that partners across Netflix to drive impact.
+
+We are seeking a talented Senior Data Scientist to provide key insights and thought partnership to our marketing decision makers. You will generate insights by scoping and executing deep dive analysis and experimentation with global marketing teams, Marketing BizOps, consumer insights and MarComms finance and strategy. You will also play a critical role in aligning and coordinating the efforts of the various other DSE peers that partner with the Marketing team. In success, you will collaborate on existing priorities but also will propose and execute on new opportunities. This role features ample opportunity for project ownership, leadership and direct influence on impactful business decisions.
+
+In This Role, You Will
+
+
+Be a strategic thought partner with business stakeholders to define high impact analytical problems and innovative ways to solve them with data.
+Develop statistical models explaining campaign engagement and performance, Marketing impact, and other key behavioral patterns
+Facilitate the Marketing cross-functional DSE pod, ensuring the DSE partnership efforts with Marketing efforts are aligned
+Translate analytic insights into actionable recommendations for business improvement, and communicate these findings clearly to a broad audience
+Identify and proactively socialize Marketing insights, especially those that may be impactful to other business areas
+
+
+What You’ll Bring
+
+
+Exceptional interpersonal and communication skills to influence stakeholders using clear insights and recommendations
+Adept at cultivating strong partnerships
+Exceptional thought partnership and engagement abilities with a diverse set of stakeholders and passionate about communicating difficult concepts to non-technical audiences
+Highly skilled in leading through influence
+Exceptional facilitation, planning and organization skills
+Domain expertise in Marketing measurement
+Strong statistical knowledge: understanding of predictive modeling; ability to tease out incrementality vs. correlations, confounder identification and amelioration, etc.
+Deep understanding of experimentation including power calculations, quasi-experiment, and interpretation of results
+Strong SQL skills and experience with distributed analytic processing technologies (S3, Presto, Hive & Spark)
+Strong skills in Python or R
+Self-starter who thrives under a high level of autonomy.
+Enthusiastic about Netflix culture
+
+
+Generally, our compensation structure consists solely of an annual salary; we do not have bonuses. You choose each year how much of your compensation you want in salary versus stock options. To determine your personal top of market compensation, we rely on market indicators and consider your specific job family, background, skills, and experience to determine your compensation in the market range. The range for this role is $372,000.00 - $600,000.00. This compensation range will vary based on location.
+
+Netflix provides comprehensive benefits including Health Plans, Mental Health support, a 401(k) Retirement Plan with employer match, Stock Option Program, Disability Programs, Health Savings and Flexible Spending Accounts, Family-forming benefits, and Life and Serious Injury Benefits. We also offer paid leave of absence programs. Full-time hourly employees accrue 35 days annually for paid time off to be used for vacation, holidays, and sick paid time off. Full-time salaried employees are immediately entitled to flexible time off. See more details about our Benefits here.
+
+Netflix is a unique culture and environment. Learn more here.
+
+Inclusion is a Netflix value and we strive to host a meaningful interview experience for all candidates. If you want an accommodation/adjustment for a disability or any other reason during the hiring process, please send a request to your recruiting partner.
+
+We are an equal-opportunity employer and celebrate diversity, recognizing that diversity builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, ancestry, national origin, caste, sex, sexual orientation, gender, gender identity or expression, age, disability, medical condition, pregnancy, genetic makeup, marital status, or military service.
+
+Job is open for no less than 7 days and will be removed when the position is filled.",https://www.linkedin.com/jobs/view/data-scientist-l5-performance-marketing-at-netflix-4313094719?position=3&pageNum=0&refId=sAyDPJJeUtrEgNDzMHa79Q%3D%3D&trackingId=z8fGDasMPEnqItRXOB2nNQ%3D%3D,LinkedIn,"['Python', 'Spark', 'SQL', 'R', 'Hive']",5
+"Data Scientist I, Integrity",Tinder,"San Francisco, CA","Our Mission
+
+
+
+
+Launched in 2012, Tinder® revolutionized how people meet, growing from 1 match to one billion matches in just two years. This rapid growth demonstrates its ability to fulfill a fundamental human need: real connection. Today, the app has been downloaded over 630 million times, leading to over 97 billion matches, serving approximately 50 million users per month in 190 countries and 45+ languages - a scale unmatched by any other app in the category. In 2024, Tinder won four Effie Awards for its first-ever global brand campaign, “It Starts with a Swipe”™""
+
+
+
+
+
+
+
+Our Values
+
+
+
+
+One Team, One Dream
+
+We work hand-in-hand, building Tinder for our members. We succeed together when we work collaboratively across functions, teams, and time zones, and think outside the box to achieve our company vision and mission.
+
+
+
+
+Own It
+
+We take accountability and strive to make a positive impact in all aspects of our business, through ownership, innovation, and a commitment to excellence.
+
+
+
+
+Never Stop Learning
+
+We cultivate a culture where it’s safe to take risks. We seek out input, share honest feedback, celebrate our wins, and learn from our mistakes in order to continue improving.
+
+
+
+
+Spark Solutions
+
+We’re problem solvers, focusing on how to best move forward when faced with obstacles. We don’t dwell on the past or on the issues at hand, but instead look at how to stay agile and overcome hurdles to achieve our goals.
+
+
+
+
+Embrace Our Differences
+
+We are intentional about building a workplace that reflects the rich diversity of our members. By leveraging different perspectives and other ways of thinking, we build better experiences for our members and our team.
+
+
+
+
+The Role:
+
+
+
+
+Tinder brings people together. With tens of millions of users and a presence in every country on earth, our reach is expansive and rapidly growing.
+
+
+
+
+As a DS I on the Integrity team, you will leverage data and automation to help Tinder solve impactful product and engineering problems such as understanding the impact of our user facing features, and creating metrics to better quantify the user experience.
+
+
+
+
+Our team provides Tinder with quantification and understanding of intent, behavior, value, and the potentially complicated ways in which they all interrelate. You will develop frameworks and models for how data should be leveraged in decision making and be a key stakeholder in delivering quantitative tools. 
+
+
+
+
+An effective DS I at Tinder must have a passion and aptitude for turning sophisticated problems into concrete hypotheses that can be answered through meticulous data analysis and A/B testing. You must be able to disseminate findings and recommendations to a variety of partners across the organization via presentations, reports, and dashboards. In this role, your insights will influence the performance of our business, the experience of our members, and the direction of analytics at Tinder.
+
+
+
+
+Where you’ll work:
+
+This is a hybrid role and requires in-office collaboration two times per week, in LA, SF, or Palo Alto.
+
+
+
+
+
+
+
+
+
+
+In this role, you will:
+Partner closely with Product, Engineering, and Policy to support Integrity initiatives through data analysis, experimentation, and measurement. 
+Analyze user behavior related to Integrity and safety initiatives to inform product decisions. Proactively monitor product performance and provide actionable insights and recommendations to improve user experience
+Design and analyze experiments or quasi-experiments to test hypotheses and evaluate the impact of Integrity-related features
+Develop and maintain dashboards and monitoring tools to track key safety and risk metrics
+Produce clear, data-driven insights and recommendations, and communicate findings to cross-functional stakeholders
+Support the evolution of metrics and measurement frameworks for Integrity products under guidance from senior team members
+Contribute to improving data quality, pipelines, and analytical infrastructure related to trust and safety use cases
+
+
+
+
+You’ll need:
+Bachelor’s degree or equivalent in a quantitative field, Master’s degree or PhD with a social science background preferred. 
+1-2 years of professional working experience in Data Science and/or analytics preferred. 
+Experience with SQL and data visualization tools (e.g. Tableau or Mode) is a plus, not required
+Familiarity with scripting languages (e.g., Python or R) and applied statistical methods; experience with A/B testing is a plus
+Exposure to causal inference concepts or methods is a plus
+Ability to develop a nuanced business understanding, testable hypotheses, and significant findings from data. 
+Eagerness to identify and explore new product opportunities, potential improvements to our data infrastructure, and unanswered questions about member behavior. 
+Comfort using descriptive and inferential statistics. 
+Curiosity of how things work, from both a business and technical perspective. 
+A collaborative growth mindset with a dedication to community-based projects and partnerships. 
+
+
+
+
+As a full-time employee, you’ll enjoy:
+Flexible Vacation, 10 annual Sick Days
+Time off to volunteer and charitable donations matching
+Comprehensive health, vision, and dental coverage
+100% 401(k) employer match up to 10%, Employee Stock Purchase Plan (ESPP)
+100% paid parental leave (including for non-birthing parents), family forming benefits, and Milk Stork, which provides access to breast milk shipping for business travel, surrogacy, and employee relocation
+Investment in your development: mentorship through our MentorMatch program, access to 6,000+ online courses through Udemy, and an annual stipend for your professional development
+Investment in your wellness: access to mental health support via Modern Health; paid concierge medical membership, pet insurance, ClassPass, Active&Fit Direct fitness membership subsidy, and commuter subsidy
+Free subscription to Tinder
+
+
+
+
+
+
+
+Commitment to Inclusion
+
+
+
+
+At Tinder, we don’t just accept difference, we celebrate it. We strive to build a workplace that reflects the rich diversity of our members around the world, and we value unique perspectives and backgrounds. Even if you don’t meet all the listed qualifications, we invite you to apply and show us how your skills could transfer. Tinder is proud to be an equal opportunity workplace where we welcome people of all sexes, gender identities, races, ethnicities, disabilities, and other lived experiences. Learn more here: https://www.lifeattinder.com/dei
+
+
+
+
+If you require reasonable accommodation to complete a job application, pre-employment testing, or a job interview or to otherwise participate in the hiring process, please speak to your Talent Acquisition Partner directly.
+
+
+
+
+#Tinder
+
+
+
+The salary range for this position is $120,000 - $135,000. Factors such as scope and responsibilities of the position, candidate's work experience, education/training, job-related skills, internal peer equity, as well as market and business considerations may influence base pay offered. This salary range is reflective of a position based in Los Angeles San Francisco, CA, or Palo Alto, CA. This salary will be subject to a geographic adjustment (according to a specific city and state), if an authorization is granted to work outside of the location listed in this posting. 
+",https://www.linkedin.com/jobs/view/data-scientist-i-integrity-at-tinder-4367011795?position=4&pageNum=0&refId=sAyDPJJeUtrEgNDzMHa79Q%3D%3D&trackingId=D5WZtK1%2BvT3aKgn8m0M%2BzA%3D%3D,LinkedIn,"['Python', 'Spark', 'SQL', 'R', 'Tableau']",5
+"Data Scientist I, Integrity",Tinder,"Palo Alto, CA","Our Mission
+
+
+
+
+Launched in 2012, Tinder® revolutionized how people meet, growing from 1 match to one billion matches in just two years. This rapid growth demonstrates its ability to fulfill a fundamental human need: real connection. Today, the app has been downloaded over 630 million times, leading to over 97 billion matches, serving approximately 50 million users per month in 190 countries and 45+ languages - a scale unmatched by any other app in the category. In 2024, Tinder won four Effie Awards for its first-ever global brand campaign, “It Starts with a Swipe”™""
+
+
+
+
+
+
+
+Our Values
+
+
+
+
+One Team, One Dream
+
+We work hand-in-hand, building Tinder for our members. We succeed together when we work collaboratively across functions, teams, and time zones, and think outside the box to achieve our company vision and mission.
+
+
+
+
+Own It
+
+We take accountability and strive to make a positive impact in all aspects of our business, through ownership, innovation, and a commitment to excellence.
+
+
+
+
+Never Stop Learning
+
+We cultivate a culture where it’s safe to take risks. We seek out input, share honest feedback, celebrate our wins, and learn from our mistakes in order to continue improving.
+
+
+
+
+Spark Solutions
+
+We’re problem solvers, focusing on how to best move forward when faced with obstacles. We don’t dwell on the past or on the issues at hand, but instead look at how to stay agile and overcome hurdles to achieve our goals.
+
+
+
+
+Embrace Our Differences
+
+We are intentional about building a workplace that reflects the rich diversity of our members. By leveraging different perspectives and other ways of thinking, we build better experiences for our members and our team.
+
+
+
+
+The Role:
+
+
+
+
+Tinder brings people together. With tens of millions of users and a presence in every country on earth, our reach is expansive and rapidly growing.
+
+
+
+
+As a DS I on the Integrity team, you will leverage data and automation to help Tinder solve impactful product and engineering problems such as understanding the impact of our user facing features, and creating metrics to better quantify the user experience.
+
+
+
+
+Our team provides Tinder with quantification and understanding of intent, behavior, value, and the potentially complicated ways in which they all interrelate. You will develop frameworks and models for how data should be leveraged in decision making and be a key stakeholder in delivering quantitative tools. 
+
+
+
+
+An effective DS I at Tinder must have a passion and aptitude for turning sophisticated problems into concrete hypotheses that can be answered through meticulous data analysis and A/B testing. You must be able to disseminate findings and recommendations to a variety of partners across the organization via presentations, reports, and dashboards. In this role, your insights will influence the performance of our business, the experience of our members, and the direction of analytics at Tinder.
+
+
+
+
+Where you’ll work:
+
+This is a hybrid role and requires in-office collaboration two times per week, in LA, SF, or Palo Alto.
+
+
+
+
+
+
+
+
+
+
+In this role, you will:
+Partner closely with Product, Engineering, and Policy to support Integrity initiatives through data analysis, experimentation, and measurement. 
+Analyze user behavior related to Integrity and safety initiatives to inform product decisions. Proactively monitor product performance and provide actionable insights and recommendations to improve user experience
+Design and analyze experiments or quasi-experiments to test hypotheses and evaluate the impact of Integrity-related features
+Develop and maintain dashboards and monitoring tools to track key safety and risk metrics
+Produce clear, data-driven insights and recommendations, and communicate findings to cross-functional stakeholders
+Support the evolution of metrics and measurement frameworks for Integrity products under guidance from senior team members
+Contribute to improving data quality, pipelines, and analytical infrastructure related to trust and safety use cases
+
+
+
+
+You’ll need:
+Bachelor’s degree or equivalent in a quantitative field, Master’s degree or PhD with a social science background preferred. 
+1-2 years of professional working experience in Data Science and/or analytics preferred. 
+Experience with SQL and data visualization tools (e.g. Tableau or Mode) is a plus, not required
+Familiarity with scripting languages (e.g., Python or R) and applied statistical methods; experience with A/B testing is a plus
+Exposure to causal inference concepts or methods is a plus
+Ability to develop a nuanced business understanding, testable hypotheses, and significant findings from data. 
+Eagerness to identify and explore new product opportunities, potential improvements to our data infrastructure, and unanswered questions about member behavior. 
+Comfort using descriptive and inferential statistics. 
+Curiosity of how things work, from both a business and technical perspective. 
+A collaborative growth mindset with a dedication to community-based projects and partnerships. 
+
+
+
+
+As a full-time employee, you’ll enjoy:
+Flexible Vacation, 10 annual Sick Days
+Time off to volunteer and charitable donations matching
+Comprehensive health, vision, and dental coverage
+100% 401(k) employer match up to 10%, Employee Stock Purchase Plan (ESPP)
+100% paid parental leave (including for non-birthing parents), family forming benefits, and Milk Stork, which provides access to breast milk shipping for business travel, surrogacy, and employee relocation
+Investment in your development: mentorship through our MentorMatch program, access to 6,000+ online courses through Udemy, and an annual stipend for your professional development
+Investment in your wellness: access to mental health support via Modern Health; paid concierge medical membership, pet insurance, ClassPass, Active&Fit Direct fitness membership subsidy, and commuter subsidy
+Free subscription to Tinder
+
+
+
+
+
+
+
+Commitment to Inclusion
+
+
+
+
+At Tinder, we don’t just accept difference, we celebrate it. We strive to build a workplace that reflects the rich diversity of our members around the world, and we value unique perspectives and backgrounds. Even if you don’t meet all the listed qualifications, we invite you to apply and show us how your skills could transfer. Tinder is proud to be an equal opportunity workplace where we welcome people of all sexes, gender identities, races, ethnicities, disabilities, and other lived experiences. Learn more here: https://www.lifeattinder.com/dei
+
+
+
+
+If you require reasonable accommodation to complete a job application, pre-employment testing, or a job interview or to otherwise participate in the hiring process, please speak to your Talent Acquisition Partner directly.
+
+
+
+
+#Tinder
+
+
+
+The salary range for this position is $120,000 - $135,000. Factors such as scope and responsibilities of the position, candidate's work experience, education/training, job-related skills, internal peer equity, as well as market and business considerations may influence base pay offered. This salary range is reflective of a position based in Los Angeles San Francisco, CA, or Palo Alto, CA. This salary will be subject to a geographic adjustment (according to a specific city and state), if an authorization is granted to work outside of the location listed in this posting. 
+",https://www.linkedin.com/jobs/view/data-scientist-i-integrity-at-tinder-4367007948?position=5&pageNum=0&refId=sAyDPJJeUtrEgNDzMHa79Q%3D%3D&trackingId=MsopeKg%2BU%2Bnli6bYmZuGGw%3D%3D,LinkedIn,"['Python', 'Spark', 'SQL', 'R', 'Tableau']",5
